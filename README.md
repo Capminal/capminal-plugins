@@ -1,10 +1,10 @@
 # Capminal Plugin for Base MCP
 
-**Version:** v0.1.0
+**Version:** v0.1.1
 
-A custom plugin for [Base MCP](https://github.com/base/base-mcp) that lets your AI agent discover token Orbs on the [Capminal](https://www.capminal.ai/) market and buy them through Base MCP's `swap` tool.
+A custom plugin for [Base MCP](https://docs.base.org/ai-agents/quickstart) that lets your AI agent discover token Orbs on the [Capminal](https://www.capminal.ai/) market and buy them through Base MCP's `swap` tool.
 
-> **Status:** Custom / user-supplied plugin (v0.1.0). Not shipped with Base MCP. `api.capminal.ai` is not on Base MCP's `web_request` allowlist — see [Installation](#installation) for the supported call paths.
+> **Status:** Custom / user-supplied plugin (v0.1.1). Not shipped with Base MCP. `api.capminal.ai` is not on Base MCP's `web_request` allowlist — see [Installation](#installation) for the supported call paths.
 
 ## What it does
 

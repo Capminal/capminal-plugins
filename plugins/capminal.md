@@ -1,7 +1,7 @@
 ---
 title: "Capminal Plugin"
 description: "Skill plugin reference for discovering token Orbs on the Capminal market via the Capminal public API and buying them with Base MCP's swap tool."
-version: "0.1.0"
+version: "0.1.1"
 ---
 
 # Capminal Plugin
